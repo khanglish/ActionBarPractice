@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Action Bar Practice</string>
+    <string name="search">search</string>
+    <string name="share">Share</string>
+    <string name="download">Download</string>
+    <string name="settings">Settings</string>
+    <string name="about">About</string>
+</resources>
